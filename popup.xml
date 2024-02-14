@@ -1,12 +1,9 @@
 <root>
    <name>Popup</name>
    <key>popup</key>
-   <!-- stable, beta, development, alpha, ... -->
    <state>stable</state>
-   <!--<logo>https://raw.githubusercontent.com/pluginsGLPI/telephony/master/{LNAME}.png</logo>-->
    <description>
       <short>
-         <!-- Add as many lang tag you want -->
          <en>Popup GLPI plugin.</en>
          <fr>Plugin GLPI Popup</fr>
       </short>
@@ -20,30 +17,16 @@
    <issues>https://github.com/procsi-dev/popup/issues</issues>
    <readme>https://github.com/procsi-dev/popup</readme>
    <authors>
-      <!-- Add as many author tag you want -->
-      <author>PROCSI</author> <!--JD-->
+      <author>PROCSI</author>
    </authors>
    <versions>
-      <!-- Add as many version tag you want -->
       <version>
          <num>1.0.4</num>
-         <!-- Add as many compatibility tag you want -->
          <compatibility>10.0.0</compatibility>
       </version>
    </versions>
    <langs>
-      <!-- Add as many lang tag you want -->
       <lang>fr_FR</lang>
    </langs>
    <license>GPL V3+</license>
-   <!--tags>
-      <en>
-         <tag>One tag</tag>
-         <tag>Another tag</tag>
-      </en>
-      <fr>
-         <tag>Un tag</tag>
-         <tag>Un autre tag</tag>
-      </fr>
-   </tags-->
 </root>
