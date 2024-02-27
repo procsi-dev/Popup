@@ -2,6 +2,7 @@
    <name>Popup</name>
    <key>popup</key>
    <!-- stable, beta, development, alpha, ... -->
+   <logo>https://github.com/procsi-dev/popup/blob/master/popup-icon.png</logo>
    <state>development</state>
    <description>
       <short>
