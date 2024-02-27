@@ -10,6 +10,10 @@
          <en>Popup GLPI plugin.</en>
          <fr>Plugin GLPI Popup</fr>
       </short>
+      <long>
+         <en>This plugin is used to display a popup which, from a telephone number, allows you to display the name of the user or an entity and the linked tickets and the tickets linked to the entity.</en>
+         <fr>Ce plugin sert à afficher une popup qui a partir d'un numéro de téléphone permet d'afficher le nom de l'utilisateur ou d'une entité et les tickets liés et les tickets liés a l'entité.</fr>
+      </long>
    </description>
    <authors>
       <!-- Add as many author tag you want -->
