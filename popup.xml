@@ -36,15 +36,15 @@
       <lang>en_GB</lang>
       <lang>fr_FR</lang>
    </langs>
-   <license>GPL V3</license>
-   <!--tags>
+   <license>GPL v2+</license>
+   <tags>
       <en>
-         <tag>One tag</tag>
-         <tag>Another tag</tag>
+         <tag>tag1</tag>
       </en>
       <fr>
-         <tag>Un tag</tag>
-         <tag>Un autre tag</tag>
+         <tag>tag1</tag>
       </fr>
-   </tags-->
+   </tags>
+   <screenshots>
+   </screenshots>
 </root>
