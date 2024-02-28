@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <root>
    <name>Popup</name>
    <key>popup</key>
@@ -8,12 +7,12 @@
    <description>
       <short>
          <!-- Add as many lang tag you want -->
-         <en><![CDATA[Popup GLPI plugin.]]></en>
-         <fr><![CDATA[Plugin GLPI Popup]]></fr>
+         <en>Popup GLPI plugin.</en>
+         <fr>Plugin GLPI Popup</fr>
       </short>
       <long>
-         <en><![CDATA[This plugin is used to display a popup which, from a telephone number, allows you to display the name of the user or an entity and the linked tickets and the tickets linked to the entity.]]></en>
-         <fr><![CDATA[Ce plugin sert à afficher une popup qui a partir d'un numéro de téléphone permet d'afficher le nom de l'utilisateur ou d'une entité et les tickets liés et les tickets liés a l'entité.]]></fr>
+         <en>This plugin is used to display a popup which, from a telephone number, allows you to display the name of the user or an entity and the linked tickets and the tickets linked to the entity.</en>
+         <fr>Ce plugin sert à afficher une popup qui a partir d'un numéro de téléphone permet d'afficher le nom de l'utilisateur ou d'une entité et les tickets liés et les tickets liés a l'entité.</fr>
       </long>
    </description>
    <authors>
@@ -37,16 +36,15 @@
       <lang>en_GB</lang>
       <lang>fr_FR</lang>
    </langs>
-   <license><![CDATA[GPL v2+]]></license>
+   <license>GPL v3</license>
    <tags>
       <en>
-         <tag>tag1</tag>
+         <tag>popup</tag>
       </en>
       <fr>
-         <tag>tag1</tag>
+         <tag>popup</tag>
       </fr>
    </tags>
    <screenshots>
-      <screenshot>https://raw.githubusercontent.com/InfotelGLPI/mydashboard/master/screenshots/mydashboard.png</screenshot>
    </screenshots>
 </root>
